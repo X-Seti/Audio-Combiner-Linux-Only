@@ -28,6 +28,10 @@ chmod +x install-simple.sh
 ### Command Line
 
 ```bash
+
+# First run, configure and choose devices
+audio-combiner.sh configure
+
 # Toggle on/off
 audio-combiner.sh toggle
 
