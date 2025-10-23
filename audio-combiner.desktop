@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Toggle Audio Combiner
+Comment=Combine audio output to multiple devices
+Exec=/usr/local/bin/audio-combiner.sh toggle
+Icon=audio-card
+Terminal=false
+Type=Application
+Categories=AudioVideo;Audio;
